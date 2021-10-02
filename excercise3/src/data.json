@@ -1,0 +1,49 @@
+{
+  "items": [
+
+    {
+      "id": 5,
+      "name": "Vispilä",
+      "author": "Pirkka",
+      "type": "Vispilä",
+      "price": 8,
+      "rating": 5,
+      "image": "kuva5.png",
+      "promos": [
+        "Stainless steel",
+        "2 vuoden takuu",
+        "5/5"
+      ]
+    },    
+    {
+      "id": 6,
+      "name": "Pata",
+      "author": "Pirkka",
+      "type": "Kattila",
+      "price": 15,
+      "rating": 7,
+      "image": "kuva1.png",
+      "promos": [
+        "Stainless steel",
+        "2 vuoden takuu",
+        "pata kattilaa soimaa"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kahvikuppi",
+      "author": "Metsäkylän savipaja",
+      "type": "Kuppi",
+      "price": 4,
+      "rating": 200,
+      "image": "kuva2.png",
+      "promos": [
+        "2dl",
+        "2 vuoden takuu",
+        "Metsäkyläläistä käsityötä"
+      ]
+    }
+
+    
+  ]
+}
