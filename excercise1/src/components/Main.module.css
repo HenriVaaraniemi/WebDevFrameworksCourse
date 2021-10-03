@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    background-color: rgb(165, 165, 165);
+    color: black;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 350;
+    align-items: center;
+    margin-left: 9%;
+    margin-right:  500px; 
+    
+}
+.otsikko{
+    font: 30px;
+    font-weight: 500;
+}
+.sidebar{
+    flex: 0 1 300px;
+    margin-left: 30px;
+    margin-right: 500px;
+    background-color: cadetblue;
+    align-items: center;
+}
+
+.ranked{
+    font-size: 40px;
+}
+.separate{
+color: gray;
+}
+
+.flexcontainer{
+    display: flex;
+}
+.tag{
+    color: blue;
+}

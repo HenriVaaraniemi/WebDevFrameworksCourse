@@ -1,0 +1,20 @@
+.header{
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.flexcontainer{
+    display: flex;
+}
+.container{
+    
+    background-color: rgb(65, 150, 164);
+    color: white;
+    padding: 10px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right:  auto; 
+}
